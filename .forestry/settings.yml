@@ -18,6 +18,8 @@ sections:
   templates:
   - post
 - type: heading
+  label: My section heading
+- type: heading
   label: Others Pages
 - type: directory
   path: content/about
